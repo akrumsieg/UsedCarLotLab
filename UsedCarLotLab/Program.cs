@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using UsedCarLotLab;
+
 Console.WriteLine("Hello, Albert!");
+
+var car = new CarClass();
